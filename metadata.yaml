@@ -1,0 +1,46 @@
+_repo: Historia-del-levantamiento-guerra-y-revolucion-de-Espana-5-de-5_70153
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Toreno, José María Queipo de Llano Ruiz de Saravia, Conde de
+    aliases:
+    - Toreno, Jose Maria Queipo de Llano Ruiz de Saravia, Conde de
+    - Toreno, conde de
+    - De Saravia, José María Queipo de Llano Ruiz, conde de Toreno
+    - Ruiz de Saravia, José María Queipo de Llano, conde de Toreno
+    - Llano Ruiz de Saravia, José María Queipo de, conde de Toreno
+    - De Llano Ruiz de Saravia, José María Queipo, conde de Toreno
+    - Quiepo de Llano Ruiz de Saravia, José María, conde de Toreno
+    - Saravia, José María Queipo de Llano Ruiz de, conde de Toreno
+    - Toreno, Conde de José María Queipo de Llano Ruiz de Saravia
+    birthdate: 1786
+    deathdate: 1843
+    gutenberg_agent_id: '55038'
+    url: http://www.gutenberg.org/2009/agents/55038
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Queipo_de_Llano,_7th_Count_of_Toreno
+    - https://es.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_Queipo_de_Llano
+description: ''
+gutenberg_issued: '2023-02-26'
+identifiers:
+  gutenberg: '70153'
+language: es
+pgterms:marc904: https://archive.org/details/historiadellevan05toreuoft
+pgterms:marc905: 20200307111924toreno
+pgterms:marc906: '1835'
+pgterms:marc907: ES
+production_note: Ramón Pajares Box and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/Canadian Libraries)
+publication_note: '  $aSpain :$bImprenta de don Tomás Jordán, $c1835.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peninsular War, 1807-1814 -- Campaigns -- Spain'
+- !lcsh 'Spain -- History -- Napoleonic Conquest, 1808-1813'
+- !lcc 'DC'
+- !lcc 'DP'
+- GITenberg
+title: Historia del levantamiento, guerra y revolución de España (5 de 5)
+url: http://www.gutenberg.org/ebooks/70153
